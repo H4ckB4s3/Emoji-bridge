@@ -15,7 +15,7 @@ To use the Emoji Bridge Web Application, visit [https://emoji.dsearch.org](https
 ## Usage
 1. Navigate to [https://emoji.dsearch.org](https://emoji.dsearch.org) in your web browser.
 2. Enter an ENS or HNS emoji domain in the input field. 
-   - You do not need to type `https://` or `http://`, nor a leading dot (`.`). 
+   - You do not need to type `https://` or `http://`, nor a dot (`.`). 
    - The application will automatically resolve top-level domains (TLDs), second-level domains (SLDs), and third-level domains.
 3. Click the "Go" button to resolve the domain. The resolved URL will open in a new browser tab.
 
